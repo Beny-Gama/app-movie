@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import styles from './Card.module.css'
+import styles from './Card.module.css';
 
 function Card({ id }) {
     return(
@@ -12,4 +12,4 @@ function Card({ id }) {
     );
 }
 
-export default Card
+export default Card;
