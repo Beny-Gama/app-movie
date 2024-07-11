@@ -1,4 +1,6 @@
 .search {
+    width: 100%;
+    min-height: 600px;
     padding-top: 68px;
     margin-top: 2.5rem;
     flex-direction: column;
