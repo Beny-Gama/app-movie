@@ -10,6 +10,7 @@
     scrollbar-width: 19px;
     align-items: center;
     justify-content: space-around;
+    z-index: 9999;
 }
 
 .header span {
