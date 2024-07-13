@@ -4,14 +4,14 @@ import './Carousel.css';
 function Carousel({ children }) {
 
     const settings = {
-        dots: true,
-        infinite: true, // true
+        dots: false,
+        infinite: false, // true
         speed: 300,
         centerMode: false,
         variableWidth: true,
         adaptuveHeight: true,
-        // slidesToShow: 3,
-        slidesToScroll: 1,
+        // slidesToShow: 5,
+        slidesToScroll: 2,
       };
 
     return (

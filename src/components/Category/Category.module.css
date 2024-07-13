@@ -1,21 +1,23 @@
 .category {
     display: flex;
     flex-direction: column; 
+    /* aula 14 */
     min-height: 280px;
     max-width: 1200px;
+    margin: 0 auto;
 }
 
 .category div {
     display: flex; 
     justify-content: flex-start;
     gap: 5px;
+    /* aula 14 */
     width: 100%;
-    margin: 0 auto;
     height: 150px;
     align-items: center;
 
 }
 
 .category H2 {
-    padding-bottom: 1.5rem;
+    padding-bottom: 1rem;
 }

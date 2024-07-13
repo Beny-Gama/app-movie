@@ -18,7 +18,7 @@ function Home() {
      { 
           categories.map((category, index) => 
           <Category category={category}>
-            <Carousel >
+            <Carousel>
             {filterCategory(index).map((video) => <Card id={video.id} key={video.id} />)} 
             </Carousel>  
             </Category>
