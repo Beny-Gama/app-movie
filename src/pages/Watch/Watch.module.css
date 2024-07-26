@@ -1,3 +1,11 @@
 .watch {
-    margin-top: 84px; /* 68px + 16px */
+    margin-top: 84px;
+    /* 68px + 16px */
+}
+
+.watch iframe {
+    width: 100%;
+    min-width: 855px;
+    height: 100%;
+    min-height: 480px;
 }

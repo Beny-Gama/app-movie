@@ -8,7 +8,7 @@
 
 .capa img {
     width: 225px;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 .capa img:hover {
@@ -29,7 +29,7 @@
     justify-content: center;
     position: absolute;
     margin-right: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .icon:hover {

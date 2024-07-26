@@ -17,7 +17,7 @@ function Watch() {
             <Header />
             <Container>
                 <section className={styles.watch}>
-                        <iframe 
+                        <iframe
                         width="855" height="480"
                         src={`https://www.youtube.com/embed/${video.id}`}
                         title="YouTube video player"
