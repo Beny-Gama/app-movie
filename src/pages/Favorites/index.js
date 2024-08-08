@@ -16,6 +16,6 @@ function Favorites() {
     <Footer />
     </>
    );
-}
+} 
 
 export default Favorites;
